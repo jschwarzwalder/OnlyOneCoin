@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 7677396693106367881}
   - component: {fileID: 3491916999823613089}
   - component: {fileID: 1270860309541615199}
+  - component: {fileID: -5505577991467981646}
+  - component: {fileID: -123840359812030279}
   m_Layer: 0
   m_Name: 'Purple WinterCoin '
   m_TagString: Untagged
@@ -92,3 +94,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 100
+--- !u!135 &-5505577991467981646
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2233574725494656986}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5327018
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-123840359812030279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2233574725494656986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46306aeec27b3de4e840bd8447f25751, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Descriptors:
+  - Purple

@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 3061390027567269838}
   - component: {fileID: 6608494192887970216}
   - component: {fileID: 5194352338125609301}
+  - component: {fileID: -2054907162273709866}
+  - component: {fileID: -6379714387688583709}
   m_Layer: 0
   m_Name: Yellow ForestCoin
   m_TagString: Untagged
@@ -92,3 +94,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 100
+--- !u!135 &-2054907162273709866
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665811737099892835}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5327018
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-6379714387688583709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665811737099892835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46306aeec27b3de4e840bd8447f25751, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Descriptors:
+  - Yellow

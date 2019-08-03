@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 1299454585733460845}
   - component: {fileID: 7672333520851356441}
   - component: {fileID: 3047964344248908563}
+  - component: {fileID: 6190031050710261059}
+  - component: {fileID: -7975786578816651768}
   m_Layer: 0
   m_Name: Green WinterCoin
   m_TagString: Untagged
@@ -92,3 +94,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 100
+--- !u!135 &6190031050710261059
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6760238387039064418}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5327018
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-7975786578816651768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6760238387039064418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46306aeec27b3de4e840bd8447f25751, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Descriptors:
+  - Green

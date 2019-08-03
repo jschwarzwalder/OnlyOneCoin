@@ -1,5 +1,32 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!135 &914257365
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6271968434506707210}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5327018
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &914257364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6271968434506707210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46306aeec27b3de4e840bd8447f25751, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Descriptors:
+  - Blue
 --- !u!1001 &6789161254882888041
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15,17 +42,17 @@ PrefabInstance:
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.842
+      value: -42.350655
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.529
+      value: 1.46
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
@@ -74,3 +101,9 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 18d683514815c024e96169fafa4e3428, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fdd0013a136a0c4e81103941b897e8b, type: 3}
+--- !u!1 &6271968434506707210 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665811737099892835, guid: 3fdd0013a136a0c4e81103941b897e8b,
+    type: 3}
+  m_PrefabInstance: {fileID: 6789161254882888041}
+  m_PrefabAsset: {fileID: 0}

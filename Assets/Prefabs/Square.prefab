@@ -1,5 +1,1084 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!65 &999395951
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 42693159588119536}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1493499094
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 56660111493216228}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &511149296
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63006309157734957}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1278815473
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 239566768744090615}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &151950094
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 357485467128533814}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &729800095
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 828252447668226705}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1320402047
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1219096709722702551}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1117770428
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1373062251154416011}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &265886241
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397459069518407359}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1824875413
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696369905191200561}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1789091036
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1770988300410470942}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1680011214
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2149878369026063184}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &513182677
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2172308519363715076}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1370836256
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579335988413}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &684757717
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579349604121}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1330221364
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579493353948}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1548603156
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579561132571}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1934181022
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579623449458}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &120320066
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579640026713}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &2100704922
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579915428663}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1368905403
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624579944983914}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1484608412
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580036365072}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1298581443
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580091536333}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &333371286
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580102596968}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1196889627
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580206089665}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1503609459
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580438426265}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &51096448
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580533650136}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1875432139
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580658389767}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &577149203
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580790424524}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1927409439
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580916177310}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1179405295
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580950430244}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &31198288
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624580966925115}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1337022090
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624581078421026}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &310862566
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348624581163987055}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &611875063
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2839622143429654381}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1538112989
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2919365541323753132}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &643510061
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3254212014551315785}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &835818663
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3630210517084826084}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &2121268125
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3748942974397594799}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1950119099
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3904103033529119983}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1056818872
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4067966808370741200}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1167454798
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4173815741735189436}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &460702721
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4334850383038206217}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &891995167
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4403157143240286229}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &240040058
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4578150719827448443}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &383136527
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4649045818795169295}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &981728256
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4694150857855424638}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &454008719
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018332962364149}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1253964027
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333011793030}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &791848017
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333035580749}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &174100604
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333037893829}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1155101510
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333187244018}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1855244179
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333251462602}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1529363548
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333444115954}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1125878931
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333586927632}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &113561110
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333595782877}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1621476434
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333717570544}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &559355826
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333826627939}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &270427913
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333833961224}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &869995677
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333835025842}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &479165433
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018333907875975}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1309613322
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334086837409}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1617141843
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334154943733}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &97341051
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334317070391}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1554696736
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334452978231}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &626757572
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334516147080}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1137224085
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334629481441}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1114543499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334641434669}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &418369480
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696018334718966085}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &2022366323
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4721907304642548595}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &30006391
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4834306589986090730}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1235313474
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4939855723402137645}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &425162271
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5352652782965613168}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1274703005
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5541370015349119920}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1340099323
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5846749471155370669}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &882934421
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5857569907592482415}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &719899935
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5913121391947752732}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &639564596
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5983769905804178536}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1407753041
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6184704922767896180}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &925082596
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6340604912903046806}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1373867501
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6589894619872937150}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1198700222
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6694681297009022845}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &491185486
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6949448168162207685}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
 --- !u!1 &7234599947752553460
 GameObject:
   m_ObjectHideFlags: 0
@@ -129,6 +1208,214 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2071340644
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7322780184793434443}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1814157213
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7428750715888005851}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &451380585
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7806798698576418407}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &779436269
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7817139440782923006}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &2636244
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7830924419578060100}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &509450640
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7878597824983536843}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1890601089
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7944819837700712748}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1545263241
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7991097226421842249}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &2145208976
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8102172575243176014}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &746288354
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8185632635169945258}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1084936863
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8402432150164045292}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &703413015
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8568704710498346905}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &9372162
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8799905893927198542}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &1705774549
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9077551558528185974}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &2036634905
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9097016286619149413}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
+--- !u!65 &923112976
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9142144612471750728}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999998, y: 1.9999998, z: 2.0000005}
+  m_Center: {x: 0.000000923872, y: 0, z: 0}
 --- !u!1001 &245714661749280610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -141,6 +1428,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -149,12 +1441,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -204,6 +1496,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 245714661749280610}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4403157143240286229 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 245714661749280610}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &434472549198336167
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -216,6 +1514,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (132)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -224,12 +1527,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -273,6 +1576,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4067966808370741200 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 434472549198336167}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5604170000551313985 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -291,6 +1600,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -299,12 +1613,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -354,6 +1668,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 549302216900170955}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4173815741735189436 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 549302216900170955}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &728393697512452239
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -366,6 +1686,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -374,12 +1699,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -429,6 +1754,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 728393697512452239}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6184704922767896180 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 728393697512452239}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &753570071826027480
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -441,6 +1772,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -449,12 +1785,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -498,6 +1834,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &3748942974397594799 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 753570071826027480}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4734615179813011774 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -516,6 +1858,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (117)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -524,12 +1871,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -573,6 +1920,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &3630210517084826084 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 869974291861341843}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5175561302394606709 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -591,6 +1944,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -599,12 +1957,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -654,6 +2012,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 920182828343044755}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5983769905804178536 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 920182828343044755}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &990821592590416871
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -666,6 +2030,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -674,12 +2043,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -729,6 +2098,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 990821592590416871}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5913121391947752732 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 990821592590416871}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1075350702375003222
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -741,6 +2116,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -749,12 +2129,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -804,6 +2184,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1075350702375003222}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5846749471155370669 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 1075350702375003222}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1394590505165642302
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -816,6 +2202,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (119)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -824,12 +2215,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -873,6 +2264,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &3254212014551315785 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 1394590505165642302}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6384723542367586520 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -891,6 +2288,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -899,12 +2301,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -954,6 +2356,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1551432029982669963}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5352652782965613168 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 1551432029982669963}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1964236794752716502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -966,6 +2374,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -974,12 +2387,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1023,6 +2436,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &4939855723402137645 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 1964236794752716502}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8593607276927231823 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -1041,6 +2460,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1049,12 +2473,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1104,6 +2528,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2078783225376747537}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4834306589986090730 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 2078783225376747537}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2182046536532675976
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1116,6 +2546,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (123)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1124,12 +2559,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1179,6 +2614,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2182046536532675976}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4721907304642548595 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 2182046536532675976}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2254897021089564916
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1191,6 +2632,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (131)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1199,12 +2645,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1254,6 +2700,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2254897021089564916}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4649045818795169295 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 2254897021089564916}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2445633215705971358
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1266,6 +2718,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (132)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1274,12 +2731,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1323,6 +2780,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &9097016286619149413 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 2445633215705971358}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5616090781279687431 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -1341,6 +2804,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1349,12 +2817,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1404,6 +2872,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2465240733443025037}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &9077551558528185974 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 2465240733443025037}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2568805257068696615
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1416,6 +2890,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1424,12 +2903,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -1479,6 +2958,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2568805257068696615}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2149878369026063184 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 2568805257068696615}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2724732372024672693
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1491,6 +2976,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1499,12 +2989,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1548,6 +3038,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &8799905893927198542 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 2724732372024672693}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5318978876322392108 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -1566,6 +3062,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1574,12 +3075,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1623,6 +3124,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &8402432150164045292 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 3122355648331064087}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5139780731638925966 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -1641,6 +3148,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1649,12 +3161,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -1698,6 +3210,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &1397459069518407359 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 3249093864416250312}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7410274273061608238 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -1716,6 +3234,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (109)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1724,12 +3247,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -1773,6 +3296,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &1373062251154416011 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 3277992633131781884}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7402871575009680410 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -1791,6 +3320,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1799,12 +3333,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1854,6 +3388,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3339014425029535825}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8185632635169945258 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 3339014425029535825}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3357650978638327200
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1866,6 +3406,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1874,12 +3419,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -1923,6 +3468,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &1219096709722702551 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 3357650978638327200}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7302948885634875206 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -1941,6 +3492,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1949,12 +3505,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -1998,6 +3554,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &7991097226421842249 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 3542554962826882994}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6712984974726694443 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -2016,6 +3578,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2024,12 +3591,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -2073,6 +3640,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &7878597824983536843 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 3646187902496623152}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6816517068698559401 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -2091,6 +3664,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2099,12 +3677,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -2154,6 +3732,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3717977005557106844}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7806798698576418407 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 3717977005557106844}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3725519817560787461
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2166,6 +3750,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2174,12 +3763,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -2229,6 +3818,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3725519817560787461}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7817139440782923006 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 3725519817560787461}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4217013134720498753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2241,6 +3836,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (97)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2249,12 +3849,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2304,6 +3904,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4217013134720498753}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &357485467128533814 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 4217013134720498753}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4515997577129289050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2316,6 +3922,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2324,12 +3935,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2379,6 +3990,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4515997577129289050}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &63006309157734957 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 4515997577129289050}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4520083691029452947
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2391,6 +4008,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (131)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2399,12 +4021,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2448,6 +4070,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &56660111493216228 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 4520083691029452947}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8465391519404903029 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -2466,6 +4094,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (111)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2474,12 +4107,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2523,6 +4156,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &42693159588119536 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 4531871416281377927}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8441431930940014177 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -2541,6 +4180,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2549,12 +4193,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2598,6 +4242,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &9142144612471750728 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 4660293431992856383}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &823381069920615897 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -2616,6 +4266,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2624,12 +4279,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -2673,6 +4328,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2172308519363715076 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 4749658751807979263}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3308689719258224486 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -2691,6 +4352,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (124)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2699,12 +4365,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -2754,6 +4420,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5142101523542220005}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1770988300410470942 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 5142101523542220005}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5207582968511068618
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2766,6 +4438,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2774,12 +4451,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -2823,6 +4500,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &1696369905191200561 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 5207582968511068618}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2613763039592222803 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -2841,6 +4524,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2849,12 +4537,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2898,6 +4586,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &8568704710498346905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 5231489175950985454}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &241073589497829896 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -2916,6 +4610,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2924,12 +4623,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -2979,6 +4678,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5621459074868340537}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8102172575243176014 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 5621459074868340537}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5778812893726557787
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2991,6 +4696,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2999,12 +4709,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3054,6 +4764,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5778812893726557787}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7944819837700712748 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 5778812893726557787}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5971443785505550899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3066,6 +4782,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (120)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3074,12 +4795,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3129,6 +4850,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5971443785505550899}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7830924419578060100 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 5971443785505550899}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6102713228007085162
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3141,6 +4868,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (111)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3149,12 +4881,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -3204,6 +4936,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6102713228007085162}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &828252447668226705 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 6102713228007085162}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6443495839310192044
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3216,6 +4954,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3224,12 +4967,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3273,6 +5016,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &7428750715888005851 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 6443495839310192044}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1345003732440026954 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -3291,6 +5040,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3299,12 +5053,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3348,6 +5102,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &7322780184793434443 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 6623776899233850940}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1165848917110600922 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -3366,6 +5126,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3374,12 +5139,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -3429,6 +5194,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6673392204701406476}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &239566768744090615 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 6673392204701406476}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6774181792953419954
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3441,6 +5212,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3449,12 +5225,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3504,6 +5280,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6774181792953419954}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6949448168162207685 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 6774181792953419954}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6937621212167130240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3516,6 +5298,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3524,12 +5311,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.7384567
+      value: -7.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -3579,6 +5366,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6937621212167130240}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4578150719827448443 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 6937621212167130240}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7105436743461566474
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3591,6 +5384,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3599,12 +5397,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3654,6 +5452,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7105436743461566474}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6694681297009022845 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 7105436743461566474}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7198934847955996658
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3666,6 +5470,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (133)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3674,12 +5483,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -3723,6 +5532,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &4334850383038206217 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 7198934847955996658}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1145954616279590507 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -3741,6 +5556,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3749,12 +5569,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3804,6 +5624,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7280031435328367561}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6589894619872937150 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 7280031435328367561}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7605883410838104545
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3816,6 +5642,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3824,12 +5655,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -3873,6 +5704,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &6340604912903046806 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 7605883410838104545}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2471361552669326087 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -3891,6 +5728,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3899,12 +5741,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -3948,6 +5790,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &3904103033529119983 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 7629541321428658708}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &423740597441004429 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -3966,6 +5814,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (118)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3974,12 +5827,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4023,6 +5876,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &5857569907592482415 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 8014605180416106776}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2663901607134376958 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -4041,6 +5900,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4049,12 +5913,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4104,6 +5968,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8256569892628001991}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5541370015349119920 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 8256569892628001991}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8596264551760140375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4116,6 +5986,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (113)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4124,12 +5999,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.7384567
+      value: -3.67
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4173,6 +6048,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2919365541323753132 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 8596264551760140375}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1967210660198314446 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -4191,6 +6072,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4199,12 +6085,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.7384567
+      value: -1.6700001
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4254,6 +6140,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8694171755882310038}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2839622143429654381 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 8694171755882310038}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9175843914667865865
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4266,6 +6158,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (133)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4274,12 +6171,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.7384567
+      value: -5.67
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4323,6 +6220,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4694150857855424638 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9175843914667865865}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3789403034670736879 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -4341,6 +6244,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4349,12 +6257,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4398,6 +6306,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624579640026713 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345523128482}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832271327547 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -4416,6 +6330,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4424,12 +6343,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4473,6 +6392,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624579623449458 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345573129609}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832153687056 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -4491,6 +6416,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4499,12 +6429,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4548,6 +6478,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333011793030 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345630739441}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284196348733719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -4566,6 +6502,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4574,12 +6515,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4629,6 +6570,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163345673648050}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018333037893829 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345673648050}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163345674969658
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4641,6 +6588,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4649,12 +6601,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4698,6 +6650,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333035580749 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345674969658}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284196388909276 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -4716,6 +6674,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4724,12 +6687,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -4773,6 +6736,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018332962364149 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345715557762}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284196433815396 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -4791,6 +6760,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4799,12 +6773,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4854,6 +6828,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163345811519970}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624579349604121 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345811519970}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163345827297862
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4866,6 +6846,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4874,12 +6859,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4923,6 +6908,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624579335988413 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345827297862}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832441377759 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -4941,6 +6932,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4949,12 +6945,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -4998,6 +6994,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624579561132571 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345904061664}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832351434105 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -5016,6 +7018,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5024,12 +7031,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5073,6 +7080,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624579493353948 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163345972037415}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832284049086 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -5091,6 +7104,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5099,12 +7117,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5154,6 +7172,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346062445370}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580206089665 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346062445370}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346067573895
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5166,6 +7190,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5174,12 +7203,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -5229,6 +7258,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346067573895}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018333717570544 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346067573895}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346080506282
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5241,6 +7276,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5249,12 +7289,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -5304,6 +7344,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346080506282}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018333595782877 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346080506282}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346088451943
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5316,6 +7362,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5324,12 +7375,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -5379,6 +7430,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346088451943}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018333586927632 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346088451943}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346292110225
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5391,6 +7448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5399,12 +7461,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5454,6 +7516,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346292110225}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624579944983914 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346292110225}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346321272268
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5466,6 +7534,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5474,12 +7547,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5529,6 +7602,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346321272268}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624579915428663 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346321272268}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346331525765
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5541,6 +7620,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5549,12 +7633,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -5598,6 +7682,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333444115954 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346331525765}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284196789874787 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -5616,6 +7706,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5624,12 +7719,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -5673,6 +7768,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333251462602 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346423515837}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284196613429339 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -5691,6 +7792,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5699,12 +7805,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5748,6 +7854,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624580102596968 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346433996691}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067831823343114 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -5766,6 +7878,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5774,12 +7891,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5829,6 +7946,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346447547702}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580091536333 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346447547702}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346498228357
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5841,6 +7964,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5849,12 +7977,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -5898,6 +8026,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333187244018 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346498228357}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284196675551843 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -5916,6 +8050,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5924,12 +8063,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -5979,6 +8118,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346502505963}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580036365072 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346502505963}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346650021372
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5991,6 +8136,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5999,12 +8149,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -6048,6 +8198,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624580658389767 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346650021372}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067833280910437 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -6066,6 +8222,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6074,12 +8235,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6123,6 +8284,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018334154943733 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346660098946}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197650862436 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -6141,6 +8308,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6149,12 +8321,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6198,6 +8370,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018334086837409 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346705275862}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197423270192 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -6216,6 +8394,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6224,12 +8407,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -6279,6 +8462,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346786798903}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580790424524 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346786798903}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346903522402
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6291,6 +8480,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6299,12 +8493,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -6348,6 +8542,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624580438426265 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346903522402}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067833501890043 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -6366,6 +8566,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6374,12 +8579,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6429,6 +8634,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163346949904368}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018333907875975 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346949904368}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163346989281407
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6441,6 +8652,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6449,12 +8665,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.719397
+      value: -17.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6498,6 +8714,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333833961224 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346989281407}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197170668185 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -6516,6 +8738,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6524,12 +8751,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6573,6 +8800,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333835025842 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346990314181}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197171699747 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -6591,6 +8824,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6599,12 +8837,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6648,6 +8886,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018333826627939 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163346998711828}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197180097778 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -6666,6 +8910,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6674,12 +8923,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -6729,6 +8978,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163347078962211}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580533650136 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347078962211}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163347203184178
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6741,6 +8996,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6749,12 +9009,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6804,6 +9064,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163347203184178}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018334718966085 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347203184178}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163347268871318
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6816,6 +9082,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6824,12 +9095,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6873,6 +9144,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018334629481441 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347268871318}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197982680688 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -6891,6 +9168,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6899,12 +9181,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -6954,6 +9236,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163347280846682}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018334641434669 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347280846682}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163347407183103
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6966,6 +9254,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6974,12 +9267,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -7023,6 +9316,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018334516147080 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347407183103}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197861068313 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -7041,6 +9340,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7049,12 +9353,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -7104,6 +9408,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163347431771359}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580950430244 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347431771359}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163347448765888
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7116,6 +9426,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7124,12 +9439,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.719397
+      value: -15.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -7173,6 +9488,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624580966925115 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347448765888}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832956646489 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -7191,6 +9512,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7199,12 +9525,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.719397
+      value: -11.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -7254,6 +9580,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163347466172261}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624580916177310 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347466172261}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163347478805824
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7266,6 +9598,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7274,12 +9611,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -7323,6 +9660,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bad351c878112904cbbc404a34243224, type: 3}
+--- !u!1 &4696018334452978231 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347478805824}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3790284197924302758 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
@@ -7341,6 +9684,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7349,12 +9697,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.719397
+      value: -13.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -7398,6 +9746,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b2ce418e585ea244995c1c166f90419, type: 3}
+--- !u!1 &2348624581163987055 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347520548500}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1394067832892983053 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
@@ -7416,6 +9770,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow_v2 (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7424,12 +9783,12 @@ PrefabInstance:
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 7782500242414987673, guid: 5b2ce418e585ea244995c1c166f90419,
         type: 3}
@@ -7479,6 +9838,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9176163347605901529}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2348624581078421026 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6903941737923501819, guid: 5b2ce418e585ea244995c1c166f90419,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347605901529}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9176163347607103296
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7491,6 +9856,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WinterGroundRockSnow (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7499,12 +9869,12 @@ PrefabInstance:
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5977893
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.719397
+      value: -9.65094
       objectReference: {fileID: 0}
     - target: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
         type: 3}
@@ -7551,6 +9921,12 @@ PrefabInstance:
 --- !u!4 &3790284197797016998 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5458798803926848230, guid: bad351c878112904cbbc404a34243224,
+    type: 3}
+  m_PrefabInstance: {fileID: 9176163347607103296}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4696018334317070391 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4500182590525042551, guid: bad351c878112904cbbc404a34243224,
     type: 3}
   m_PrefabInstance: {fileID: 9176163347607103296}
   m_PrefabAsset: {fileID: 0}

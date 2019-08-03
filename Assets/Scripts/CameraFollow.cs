@@ -30,10 +30,10 @@ public class CameraFollow : MonoBehaviour
         angleY = Mathf.Deg2Rad * eulerAngles.y;
         angleX = Mathf.Deg2Rad * eulerAngles.x;
 
-        Debug.Log(eulerAngles);
-
         minAngleXRad = Mathf.Deg2Rad * minAngleX;
         maxAngleXRad = Mathf.Deg2Rad * maxAngleX;
+
+        Cursor.lockState = CursorLockMode.Locked;
 
         updatePosition();
     }

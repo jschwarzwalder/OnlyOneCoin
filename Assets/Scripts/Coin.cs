@@ -15,6 +15,7 @@ public class Coin : MonoBehaviour
         {
             AllDescriptors.Add(descriptor);
         }
+
     }
 
     // Update is called once per frame

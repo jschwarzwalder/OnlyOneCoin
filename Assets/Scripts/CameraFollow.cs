@@ -48,9 +48,6 @@ public class CameraFollow : MonoBehaviour
         Vector3 offset = new Vector3(offsetOnXZPlane.x, offsetY, offsetOnXZPlane.z);
         transform.position = Target.position + offset;
         transform.LookAt(Target);
-
-        Debug.Log("offset: " + offset);
-        Debug.Log("Distance: " + offset.magnitude);
     }
 
     // Update is called once per frame

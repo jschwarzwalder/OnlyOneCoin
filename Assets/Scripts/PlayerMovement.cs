@@ -4,14 +4,17 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float MovementSpeed;
-    public float JumpSpeed;
-    public bool OnGround { get { return groundCount > 0; } }
+    public float MovementSpeed = 5;
+    public float JumpSpeed = 5;
+    public float TurnSpeed = 5;
+
+    private int groundCount;
 
     private new Rigidbody rigidbody;
-    private int groundCount;
     private Transform camera;
-    
+
+    public bool OnGround { get { return groundCount > 0; } }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -30,9 +33,12 @@ public class PlayerMovement : MonoBehaviour
 
         Vector3 direction = right * horizontalAxis + forward * verticalAxis;
         direction.Normalize();
-        Vector3 movementDelta = MovementSpeed * Time.deltaTime * direction;
-
-        rigidbody.MovePosition(transform.position + movementDelta);
+        if (direction.sqrMagnitude > Mathf.Epsilon)
+        {
+            transform.forward = Vector3.RotateTowards(transform.forward, direction, TurnSpeed * Time.deltaTime, 0);
+            Vector3 movementDelta = MovementSpeed * Time.deltaTime * transform.forward;
+            rigidbody.MovePosition(transform.position + movementDelta);
+        }
 
         bool jump = Input.GetButtonDown("Jump");
         if (jump && OnGround)

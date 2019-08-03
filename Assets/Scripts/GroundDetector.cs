@@ -17,10 +17,8 @@ public class GroundDetector : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Trigger");
         if (other.gameObject.CompareTag("Ground"))
         {
-            Debug.Log("Ground");
             SendMessageUpwards("AddGround");
         }
     }

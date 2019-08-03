@@ -381,7 +381,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 650946786}
   m_LocalRotation: {x: 0.2588191, y: 0, z: 0, w: 0.9659258}
-  m_LocalPosition: {x: -39.8, y: 5, z: -10}
+  m_LocalPosition: {x: -48.86, y: 5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -399,14 +399,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa80fce0c8b308243842113ed7764a8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Target: {fileID: 0}
-  FollowDistance: 0
-  MaxSpeed: 10
-  MaxAngularSpeed: 20
-  MinAngleY: -180
-  MaxAngleY: 180
-  MinAngleX: -60
-  MaxAngleX: 60
+  Target: {fileID: 1033848244}
+  FollowDistance: 10
+  MouseSensitivity: 1
+  SmoothTime: 0.3
+  minAngleX: 30
+  maxAngleX: 30
+--- !u!4 &1033848244 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 723473800194663594, guid: c4d846db7b253964b8930c127d33bf16,
+    type: 3}
+  m_PrefabInstance: {fileID: 723473802053899275}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1264559516
 GameObject:
   m_ObjectHideFlags: 0

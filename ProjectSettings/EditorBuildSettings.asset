@@ -9,15 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/TestScene1.unity
+    path: Assets/Scenes/Test Scenes/TestScene1.unity
     guid: 1b4f38785462c2b4bababd0d50ffd3f3
   - enabled: 1
-    path: Assets/Scenes/Test Coins1.unity
+    path: Assets/Scenes/Test Scenes/Test Coins1.unity
     guid: 84e8aa52c5472f5469a87013a9e7682d
   - enabled: 1
-    path: Assets/Scenes/Test Coins2.unity
+    path: Assets/Scenes/Test Scenes/Test Coins2.unity
     guid: 34c78651afbb4fe42868d31a63e29529
   - enabled: 1
     path: Assets/Scenes/3 of each coin Around Ice.unity
     guid: 6b09c06dc56965e4caa1582c03c72dd2
+  - enabled: 1
+    path: Assets/Scenes/One Cone Each, Front Platform.unity
+    guid: 344ba42f2460d114eb9b500f56ee0ea1
   m_configObjects: {}

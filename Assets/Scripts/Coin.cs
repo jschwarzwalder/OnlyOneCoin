@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    public static HashSet<string> AllDescriptors = new HashSet<string>();
+    public static HashSet<string> Colors = new HashSet<string>();
 
-    public string[] Descriptors;
+    public string Color;
 
     // Start is called before the first frame update
     void Start()
     {
-        foreach (string descriptor in Descriptors)
+        if (!Colors.Contains(Color))
         {
-            AllDescriptors.Add(descriptor);
+            Colors.Add(Color);
+            GameObject hud = GameObject.FindGameObjectWithTag("HUD");
+            hud.BroadcastMessage("OnCoinCreate", Color);
         }
 
     }

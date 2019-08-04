@@ -8,18 +8,20 @@ public class CoinCollector : MonoBehaviour
     private HashSet<string> collectedCoins = new HashSet<string>();
 
     private SceneController sceneController;
+    private GameObject hud;
 
     // Start is called before the first frame update
     void Start()
     {
         sceneController = GameObject.FindGameObjectWithTag("GameController").GetComponent<SceneController>();
         SceneManager.sceneUnloaded += OnSceneUnload;
+        hud = GameObject.FindGameObjectWithTag("HUD");
     }
 
     private void OnSceneUnload(Scene arg0)
     {
         collectedCoins.Clear();
-        Coin.AllDescriptors.Clear();
+        Coin.Colors.Clear();
     }
 
     // Update is called once per frame
@@ -33,22 +35,18 @@ public class CoinCollector : MonoBehaviour
         Coin coin = other.GetComponent<Coin>();
         if (coin != null)
         {
-            foreach (string descriptor in coin.Descriptors)
+            if (collectedCoins.Contains(coin.Color))
             {
-                if (collectedCoins.Contains(descriptor))
-                {
-                    Debug.Log("You Lose (" + descriptor + ")");
-                }
-                else
-                {
-                    Debug.Log("Collected " + descriptor);
-                    collectedCoins.Add(descriptor);
-                }
+                sceneController.RestartLevel();
+            }
+            else
+            {
+                collectedCoins.Add(coin.Color);
+                hud.BroadcastMessage("OnCoinPickup", coin.Color);
             }
 
-            if (collectedCoins.Count == Coin.AllDescriptors.Count)
+            if (collectedCoins.Count == Coin.Colors.Count)
             {
-                Debug.Log("You Win");
                 sceneController.NextLevel();
             }
 

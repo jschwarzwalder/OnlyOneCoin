@@ -50,12 +50,10 @@ public class SceneController : MonoBehaviour
         {
             if (sceneLoaded)
             {
-                Debug.Log("Out of Time");
                 UnloadLevel();
             }
             else
             {
-                Debug.Log("Loading Level");
                 if (sceneIndex < Scenes.Length)
                 {
                     loadSceneOp = SceneManager.LoadSceneAsync(Scenes[sceneIndex], LoadSceneMode.Additive);
@@ -64,16 +62,19 @@ public class SceneController : MonoBehaviour
         }
     }
 
+    public void RestartLevel()
+    {
+        UnloadLevel();
+    }
+
     public void NextLevel()
     {
-        Debug.Log("Next Level");
         UnloadLevel();
         sceneIndex++;
     }
 
     private void UnloadLevel()
     {
-        Debug.Log("Unloading Level");
         SceneManager.UnloadSceneAsync(Scenes[sceneIndex]);
         sceneLoaded = false;
         nextTime = Time.time + TimeBetweenScenes;

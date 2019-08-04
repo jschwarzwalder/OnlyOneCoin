@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &5608650638829119785
+--- !u!1001 &7696385925014285691
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,32 +10,32 @@ PrefabInstance:
     - target: {fileID: -6379714387688583709, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: Descriptors.Array.data[0]
-      value: Green
+      value: White
       objectReference: {fileID: 0}
     - target: {fileID: -6379714387688583709, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: Color
-      value: Green
+      value: White
       objectReference: {fileID: 0}
     - target: {fileID: 665811737099892835, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_Name
-      value: ForestCoin Variant
+      value: 'White ForestCoin '
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -40.88
+      value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.36
+      value: 3.529
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.3819332
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3138179209648800673, guid: 3fdd0013a136a0c4e81103941b897e8b,
         type: 3}
@@ -77,5 +77,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6608494192887970216, guid: 3fdd0013a136a0c4e81103941b897e8b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3584b9146afb5e04a88435f88a106db4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fdd0013a136a0c4e81103941b897e8b, type: 3}

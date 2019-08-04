@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Grid.unity
+    guid: fbf20c73ca947614190e81b2de3e86eb
   - enabled: 1
     path: Assets/Scenes/3 of each coin Around Ice.unity
     guid: 6b09c06dc56965e4caa1582c03c72dd2
@@ -27,12 +27,12 @@ EditorBuildSettings:
     path: Assets/Scenes/First Level.unity
     guid: e2f04cfd17c808f49aeba2aeedbf4004
   - enabled: 1
-    path: Assets/Scenes/Grid.unity
-    guid: fbf20c73ca947614190e81b2de3e86eb
-  - enabled: 1
     path: Assets/Scenes/On Top of Stairs.unity
     guid: ed36a97d6c550af4791c25bb120f0ef1
   - enabled: 1
     path: Assets/Scenes/Rainbow Under Bridge.unity
     guid: 1fdfe3e227ef09a44b50172669067e91
+  - enabled: 1
+    path: Assets/Scenes/The End.unity
+    guid: 08ccc60e994405840851fb1d2f8268ac
   m_configObjects: {}

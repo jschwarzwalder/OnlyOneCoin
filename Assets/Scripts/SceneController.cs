@@ -8,6 +8,7 @@ public class SceneController : MonoBehaviour
     public float TimeBetweenScenes = 15;
     public float TimeBeforeFirstScene = 5;
     public string[] Scenes;
+    [SerializeField] private AudioSource StartLevelSound;
 
     public float TimeLeft { get { return nextTime - Time.time; } }
 
@@ -59,6 +60,7 @@ public class SceneController : MonoBehaviour
                 if (sceneIndex < Scenes.Length)
                 {
                     loadSceneOp = SceneManager.LoadSceneAsync(Scenes[sceneIndex], LoadSceneMode.Additive);
+                    StartLevelSound.Play();
                 }
             }
         }

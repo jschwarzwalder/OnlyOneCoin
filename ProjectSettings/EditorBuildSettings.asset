@@ -5,22 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Scenes/Test Scenes/TestScene1.unity
-    guid: 1b4f38785462c2b4bababd0d50ffd3f3
-  - enabled: 1
-    path: Assets/Scenes/Test Scenes/Test Coins1.unity
-    guid: 84e8aa52c5472f5469a87013a9e7682d
-  - enabled: 1
-    path: Assets/Scenes/Test Scenes/Test Coins2.unity
-    guid: 34c78651afbb4fe42868d31a63e29529
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/3 of each coin Around Ice.unity
     guid: 6b09c06dc56965e4caa1582c03c72dd2
   - enabled: 1
     path: Assets/Scenes/Multiple Coins Each, Front Platform.unity
     guid: 344ba42f2460d114eb9b500f56ee0ea1
+  - enabled: 1
+    path: Assets/Scenes/All Around Level.unity
+    guid: 47a962bc559d52e42a55950558f076f7
+  - enabled: 1
+    path: Assets/Scenes/Coins in Behind Stairs.unity
+    guid: 75501d052a129484b88d756b32d9e55e
+  - enabled: 1
+    path: Assets/Scenes/Coins on Ice Platforms.unity
+    guid: 25c168d18fddb824e9649f9c6b4ce877
+  - enabled: 1
+    path: Assets/Scenes/First Level.unity
+    guid: e2f04cfd17c808f49aeba2aeedbf4004
+  - enabled: 1
+    path: Assets/Scenes/Grid.unity
+    guid: fbf20c73ca947614190e81b2de3e86eb
+  - enabled: 1
+    path: Assets/Scenes/On Top of Stairs.unity
+    guid: ed36a97d6c550af4791c25bb120f0ef1
+  - enabled: 1
+    path: Assets/Scenes/Rainbow Under Bridge.unity
+    guid: 1fdfe3e227ef09a44b50172669067e91
   m_configObjects: {}

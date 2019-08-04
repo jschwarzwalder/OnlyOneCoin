@@ -209,7 +209,7 @@ PrefabInstance:
     - target: {fileID: -4637315463487402825, guid: c7215b09d362eed46ad1867c69076497,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -4637315463487402825, guid: c7215b09d362eed46ad1867c69076497,
         type: 3}
@@ -347,7 +347,7 @@ PrefabInstance:
     - target: {fileID: 5785301138918114653, guid: e5a426bf9316bb349896bb86877aabae,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5785301138918114653, guid: e5a426bf9316bb349896bb86877aabae,
         type: 3}
@@ -416,7 +416,7 @@ PrefabInstance:
     - target: {fileID: 5785301138918114653, guid: e5a426bf9316bb349896bb86877aabae,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5785301138918114653, guid: e5a426bf9316bb349896bb86877aabae,
         type: 3}
@@ -623,7 +623,7 @@ PrefabInstance:
     - target: {fileID: -4637315463487402825, guid: 00983768b8ce95c43bbdb0b17809868a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -4637315463487402825, guid: 00983768b8ce95c43bbdb0b17809868a,
         type: 3}
@@ -830,7 +830,7 @@ PrefabInstance:
     - target: {fileID: -4637315463487402825, guid: 00983768b8ce95c43bbdb0b17809868a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -4637315463487402825, guid: 00983768b8ce95c43bbdb0b17809868a,
         type: 3}
@@ -1934,7 +1934,7 @@ PrefabInstance:
     - target: {fileID: -4637315463487402825, guid: c7215b09d362eed46ad1867c69076497,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -4637315463487402825, guid: c7215b09d362eed46ad1867c69076497,
         type: 3}

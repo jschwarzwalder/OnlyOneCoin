@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     public float MovementSpeed = 5;
     public float JumpSpeed = 5;
     public float TurnSpeed = 5;
+    public float SneakMultiplier = 0.3f;
 
     private int groundCount;
     private int iceCount;
@@ -46,6 +47,8 @@ public class PlayerMovement : MonoBehaviour
         //ignore triggers
         hit = hit && !hitInfo.collider.isTrigger;
 
+        bool sneak = Input.GetButton("Sneak");
+
         if (OnIce)
         {
             Vector3 movementDelta = MovementSpeed * Time.deltaTime * lastMovementDirection;
@@ -55,7 +58,14 @@ public class PlayerMovement : MonoBehaviour
         if (!hit && direction.sqrMagnitude > Mathf.Epsilon)
         {
             Vector3 movementDelta = MovementSpeed * Time.deltaTime * direction;
-            rigidbody.MovePosition(transform.position + movementDelta);
+            if (sneak)
+            {
+                rigidbody.MovePosition(transform.position + movementDelta * SneakMultiplier);
+            }
+            else
+            {
+                rigidbody.MovePosition(transform.position + movementDelta);
+            }
             lastMovementDirection = direction;
         }
 

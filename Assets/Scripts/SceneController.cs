@@ -9,6 +9,8 @@ public class SceneController : MonoBehaviour
     public float TimeBeforeFirstScene = 5;
     public string[] Scenes;
 
+    public float TimeLeft { get { return nextTime - Time.time; } }
+
     private int sceneIndex = 0;
     private bool sceneLoaded = false;
     private float nextTime;

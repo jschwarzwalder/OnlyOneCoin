@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
 
     private new Rigidbody rigidbody;
     private new Transform camera;
+    private Animator animator;
 
     private Vector3 lastMovementDirection;
 
@@ -26,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
     {
         rigidbody = GetComponent<Rigidbody>();
         camera = GameObject.FindGameObjectWithTag("MainCamera").transform;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -37,18 +39,17 @@ public class PlayerMovement : MonoBehaviour
         Vector3 forward = Vector3.ProjectOnPlane(camera.forward, transform.up).normalized;
         Vector3 right = Vector3.ProjectOnPlane(camera.right, transform.up).normalized;
 
+        animator.SetFloat("Turn", TurnSpeed * Time.deltaTime, 0.1f, Time.deltaTime);
+
         transform.forward = Vector3.RotateTowards(transform.forward, forward, TurnSpeed * Time.deltaTime, 0);
 
         Vector3 direction = right * horizontalAxis + forward * verticalAxis;
         direction.Normalize();
 
-        RaycastHit hitInfo;
-        bool hit = Physics.Raycast(transform.position, direction, out hitInfo, 0.6f);
-
-        //ignore triggers
-        hit = hit && !hitInfo.collider.isTrigger;
+        animator.SetFloat("Forward", verticalAxis, 0.1f, Time.deltaTime);
 
         bool sneak = Input.GetButton("Sneak");
+        animator.SetBool("Crouch", sneak);
 
         if (OnIce)
         {
@@ -56,7 +57,7 @@ public class PlayerMovement : MonoBehaviour
             rigidbody.MovePosition(transform.position + movementDelta);
         }
         else
-        if (!hit && direction.sqrMagnitude > Mathf.Epsilon)
+        if (direction.sqrMagnitude > Mathf.Epsilon)
         {
             Vector3 movementDelta = MovementSpeed * Time.deltaTime * direction;
             if (sneak)
@@ -77,23 +78,36 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void UpdateGround()
+    {
+        animator.SetBool("OnGround", OnGround);
+        if (!OnGround)
+        {
+            animator.SetFloat("Jump", rigidbody.velocity.y);
+        }
+    }
+
     public void AddIce()
     {
         ++iceCount;
+        UpdateGround();
     }
 
     public void RemoveIce()
     {
         --iceCount;
+        UpdateGround();
     }
 
     public void AddGround()
     {
         ++groundCount;
+        UpdateGround();
     }
 
     public void RemoveGround()
     {
         --groundCount;
+        UpdateGround();
     }
 }

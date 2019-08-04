@@ -21,6 +21,10 @@ public class GroundDetector : MonoBehaviour
         {
             SendMessageUpwards("AddGround");
         }
+        else if (other.gameObject.CompareTag("Ice"))
+        {
+            SendMessageUpwards("AddIce");
+        }
     }
 
     private void OnTriggerExit(Collider other)
@@ -28,6 +32,10 @@ public class GroundDetector : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             SendMessageUpwards("RemoveGround");
+        }
+        else if (other.gameObject.CompareTag("Ice"))
+        {
+            SendMessageUpwards("RemoveIce");
         }
     }
 }

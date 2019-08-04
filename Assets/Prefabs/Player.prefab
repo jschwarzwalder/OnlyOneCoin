@@ -89,7 +89,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 723473800194663575}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3a4ba4e3c6fb1744a889dd7345803295, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -123,8 +123,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73adfc4247777d247ac14517d7a3a643, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovementSpeed: 5
-  JumpSpeed: 5
+  MovementSpeed: 10
+  JumpSpeed: 7
+  TurnSpeed: 10
 --- !u!1 &723473801806758524
 GameObject:
   m_ObjectHideFlags: 0
@@ -152,7 +153,7 @@ Transform:
   m_GameObject: {fileID: 723473801806758524}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -0.3, z: 0}
-  m_LocalScale: {x: 0.9, y: 0.5, z: 0.9}
+  m_LocalScale: {x: 0.8, y: 0.5, z: 0.8}
   m_Children: []
   m_Father: {fileID: 723473800194663594}
   m_RootOrder: 0

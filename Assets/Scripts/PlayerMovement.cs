@@ -9,11 +9,15 @@ public class PlayerMovement : MonoBehaviour
     public float TurnSpeed = 5;
 
     private int groundCount;
+    private int iceCount;
 
     private new Rigidbody rigidbody;
-    private Transform camera;
+    private new Transform camera;
 
-    public bool OnGround { get { return groundCount > 0; } }
+    private Vector3 lastMovementDirection;
+
+    public bool OnGround { get { return groundCount > 0 || OnIce; } }
+    public bool OnIce { get { return iceCount > 0; } }
 
     // Start is called before the first frame update
     void Start()
@@ -31,13 +35,28 @@ public class PlayerMovement : MonoBehaviour
         Vector3 forward = Vector3.ProjectOnPlane(camera.forward, transform.up).normalized;
         Vector3 right = Vector3.ProjectOnPlane(camera.right, transform.up).normalized;
 
+        transform.forward = Vector3.RotateTowards(transform.forward, forward, TurnSpeed * Time.deltaTime, 0);
+
         Vector3 direction = right * horizontalAxis + forward * verticalAxis;
         direction.Normalize();
-        if (direction.sqrMagnitude > Mathf.Epsilon)
+
+        RaycastHit hitInfo;
+        bool hit = Physics.Raycast(transform.position, direction, out hitInfo, 0.6f);
+
+        //ignore triggers
+        hit = hit && !hitInfo.collider.isTrigger;
+
+        if (OnIce)
         {
-            transform.forward = Vector3.RotateTowards(transform.forward, direction, TurnSpeed * Time.deltaTime, 0);
-            Vector3 movementDelta = MovementSpeed * Time.deltaTime * transform.forward;
+            Vector3 movementDelta = MovementSpeed * Time.deltaTime * lastMovementDirection;
             rigidbody.MovePosition(transform.position + movementDelta);
+        }
+        else
+        if (!hit && direction.sqrMagnitude > Mathf.Epsilon)
+        {
+            Vector3 movementDelta = MovementSpeed * Time.deltaTime * direction;
+            rigidbody.MovePosition(transform.position + movementDelta);
+            lastMovementDirection = direction;
         }
 
         bool jump = Input.GetButtonDown("Jump");
@@ -45,6 +64,16 @@ public class PlayerMovement : MonoBehaviour
         {
             rigidbody.velocity += transform.up * JumpSpeed;
         }
+    }
+
+    public void AddIce()
+    {
+        ++iceCount;
+    }
+
+    public void RemoveIce()
+    {
+        --iceCount;
     }
 
     public void AddGround()

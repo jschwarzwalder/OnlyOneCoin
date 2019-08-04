@@ -38,10 +38,11 @@ public class CoinCollector : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         Coin coin = other.GetComponent<Coin>();
-        if (coin != null)
+        if (coin != null && !coin.Collected)
         {
             if (collectedCoins.Contains(coin.Color))
             {
+                Debug.Log("Failed (" + coin.Color + ")");
                 sceneController.RestartLevel();
                 coinErrorSource.Play();
                
@@ -49,6 +50,7 @@ public class CoinCollector : MonoBehaviour
             }
             else
             {
+                Debug.Log("Collected " + coin.Color);
                 collectedCoins.Add(coin.Color);
                 hud.BroadcastMessage("OnCoinPickup", coin.Color);
                 coinPickupSource.Play();
@@ -62,6 +64,8 @@ public class CoinCollector : MonoBehaviour
 
             }
 
+            //nonsense necessary because ground detector is calling this function
+            coin.Collected = true;
             Destroy(coin.gameObject);
         }
     }

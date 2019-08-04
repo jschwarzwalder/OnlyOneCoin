@@ -11,6 +11,7 @@ public class SceneController : MonoBehaviour
     [SerializeField] private AudioSource StartLevelSound;
 
     public float TimeLeft { get { return nextTime - Time.time; } }
+    public int CurrentLevel { get { return sceneIndex + 1; } }
 
     private int sceneIndex = 0;
     private bool sceneLoaded = false;

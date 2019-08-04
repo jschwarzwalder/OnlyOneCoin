@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 lastMovementDirection;
 
     public bool OnGround { get { return groundCount > 0 || OnIce; } }
+    //public bool OnGround { get { return true; } }
     public bool OnIce { get { return iceCount > 0; } }
 
     // Start is called before the first frame update

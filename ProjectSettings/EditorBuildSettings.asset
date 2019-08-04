@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Test Coins2.unity
     guid: 34c78651afbb4fe42868d31a63e29529
+  - enabled: 1
+    path: Assets/Scenes/3 of each coin Around Ice.unity
+    guid: 6b09c06dc56965e4caa1582c03c72dd2
   m_configObjects: {}
